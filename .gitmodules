@@ -1,0 +1,6 @@
+[submodule "curvas-backend"]
+	path = curvas-backend
+	url = https://github.com/Curvas-education/curvas-backend
+[submodule "curvas-frontend"]
+	path = curvas-frontend
+	url = https://github.com/Curvas-education/curvas-frontend
